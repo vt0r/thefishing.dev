@@ -94,4 +94,4 @@ facebook_like = true
     author = "author"
 
 [params.views]
-    enable = true  # visitor badge from https://visitor-badge.glitch.me/
+    enable = false  # visitor badge from https://visitor-badge.glitch.me/
