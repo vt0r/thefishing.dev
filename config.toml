@@ -6,7 +6,7 @@ theme = 'travelify'
     # Tell me who you are
     author = "thefishingdev"
     site_description = "A travel blog with some fishing trips sprinkled in"
-    copyright  = "Copyright 2024 by The Fishing Dev"
+    copyright  = "by The Fishing Dev."
 #    avatar = "avatar.png"
     logo = "images/logo.png"
     title_in_logo = true # set to true if you want the title along with the logo
