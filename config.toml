@@ -73,7 +73,7 @@ facebook_like = true
     tags = true
     tag_cloud = true
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
-    search = true
+    search = false
     mailchimp = false
     mailchimpform = "//balaramadurai.us15.list-manage.com/subscribe/post?u=7f4183fa2fe7abe3dc9f4efad&amp;id=49a3dd3745"
     author = true
