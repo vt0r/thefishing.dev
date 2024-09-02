@@ -2,6 +2,8 @@ baseURL = 'https://thefishing.dev/'
 languageCode = 'en-us'
 title = 'The Fishing Dev'
 theme = 'travelify'
+canonifyURLs = true
+
 [params]
     # Tell me who you are
     author = "thefishingdev"
