@@ -33,10 +33,10 @@ canonifyURLs = true
     url   = "/about/"
     weight = 10
 
-#[[menu.main]]
-#    name  = "contact"
-#    url   = "/contact/"
-#    weight = 20
+[[menu.main]]
+    name  = "Contact"
+    url   = "/contact/"
+    weight = 20
 
 [params.share]
     enable = true
