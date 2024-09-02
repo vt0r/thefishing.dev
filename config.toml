@@ -64,6 +64,9 @@ facebook_like = true
     pinterest       = ""
     facebook        = ""
     twitter         = ""
+    bluesky         = "thefishing.dev"
+    mastodon_user   = "vt0r"
+    mastodon_server = "ohai.social"
     email           = "contact@thefishing.dev"
 
 # Enable and disable widgets for the right sidebar
