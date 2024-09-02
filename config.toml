@@ -39,7 +39,7 @@ canonifyURLs = true
     weight = 20
 
 [params.share]
-    enable = true
+    enable = false
     facebook = true
     twitter = true
     linkedin = true
@@ -68,6 +68,7 @@ facebook_like = true
     bluesky         = "thefishing.dev"
     mastodon_user   = "vt0r"
     mastodon_server = "ohai.social"
+    keyoxide        = "4b5fd875f30c8cf39191b11dead217668b7336d5"
     email           = "contact@thefishing.dev"
 
 # Enable and disable widgets for the right sidebar
