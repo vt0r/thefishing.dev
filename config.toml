@@ -28,10 +28,9 @@ canonifyURLs = true
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
 
-
 [[menu.main]]
-    name  = "Posts"
-    url   = "/posts/"
+    name  = "About"
+    url   = "/about/"
     weight = 10
 
 #[[menu.main]]
