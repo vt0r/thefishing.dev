@@ -9,7 +9,7 @@ canonifyURLs = true
     author = "thefishingdev"
     site_description = "A travel blog with some fishing trips sprinkled in"
     copyright  = "by The Fishing Dev."
-#    avatar = "avatar.png"
+    #avatar = "avatar.png"
     logo = "images/logo.png"
     logo_alt_txt = "A large-ish Mutton Snapper at a ~140-degree angle"
     title_in_logo = true # set to true if you want the title along with the logo
@@ -41,15 +41,15 @@ canonifyURLs = true
 
 [params.share]
     enable = false
-    facebook = true
-    twitter = true
-    linkedin = true
-    email = true
+    facebook = false
+    twitter = false
+    linkedin = false
+    email = false
 
 [params.privacy]
-enable = true # false implies switching on tracking application, you can individually turn off applications that you don't want. If enable = true, then all tracking apps are switched off
-facebook_like = true
-#DisqusShortname = "example"
+    enable = true # false implies switching on tracking application, you can individually turn off applications that you don't want. If enable = true, then all tracking apps are switched off
+    facebook_like = false
+    DisqusShortname = ""
 
 [social]
 # Add your social network accounts to the profile section on the left
@@ -81,7 +81,7 @@ facebook_like = true
     archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
     search = false
     mailchimp = false
-    #mailchimpform = "//balaramadurai.us15.list-manage.com/subscribe/post?u=7f4183fa2fe7abe3dc9f4efad&amp;id=49a3dd3745"
+    #mailchimpform = ""
     author = true
 
 [params.slider]
