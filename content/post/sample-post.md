@@ -1,9 +1,12 @@
----
-title: Sample Post
-date: 2024-07-07T19:34:11-04:00
-description: Just a sample post with no actual content, so I can see what future posts will look like with this theme
-draft: false
----
++++
+title = 'Sample Post'
+date = 2024-07-07T19:34:11-04:00
+description = 'Just a sample post with no actual content, so I can see what future posts will look like with this theme'
+draft = false
+author = 'The Fishing Dev'
+categories = ['misc']
+tags = ['sample', 'test']
++++
 
 ## Sample post
 
