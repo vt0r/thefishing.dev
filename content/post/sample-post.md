@@ -11,3 +11,22 @@ tags = ['sample', 'test']
 ## Sample post
 
 Testing. 1...2...3... Real content is coming soon! Just tidying up this theme to make it look better and be more accessible first!
+
+``` toml
+[[menu.main]]
+    name  = "About"
+    url   = "/about/"
+    weight = 10
+
+[[menu.main]]
+    name  = "Contact"
+    url   = "/contact/"
+    weight = 20
+
+[params.share]
+    enable = false
+    facebook = false
+    twitter = false
+    linkedin = false
+    email = false
+```
