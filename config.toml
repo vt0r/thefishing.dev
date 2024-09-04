@@ -51,7 +51,7 @@ canonifyURLs = true
     facebook_like = false
     DisqusShortname = ""
 
-[social]
+[params.social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
