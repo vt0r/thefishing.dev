@@ -11,7 +11,7 @@ canonifyURLs = true
     copyright  = "by The Fishing Dev."
     #avatar = "avatar.png"
     logo = "images/logo.png"
-    logo_alt_txt = "A large-ish Mutton Snapper at a ~140-degree angle"
+    logo_alt_txt = "A large-ish Mutton Snapper at a ~140-degree angle over a code editor background"
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
 
