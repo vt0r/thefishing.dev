@@ -102,3 +102,19 @@ canonifyURLs = true
 
 [params.views]
     enable = false  # visitor badge from https://visitor-badge.glitch.me/
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = false
+    noClasses = false
+    noHl = false
+    style = 'solarized-dark'
+    tabWidth = 2
