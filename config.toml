@@ -7,7 +7,7 @@ canonifyURLs = true
 [params]
   # Tell me who you are
   author = "thefishingdev"
-  site_description = "A travel blog with some fishing trips sprinkled in"
+  site_description = "A travel blog with some fishing/beach trips sprinkled in"
   copyright  = "by The Fishing Dev."
   #avatar = "avatar.png"
   logo = "images/logo.png"

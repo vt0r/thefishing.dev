@@ -7,4 +7,4 @@ nodateline = true
 disable_comments = true
 +++
 
-I'm just a guy who likes to fish and to travel. I also happen to be a dev by day, so you might see some nerd stuff on here occasionally. Sorry in advance.
+I'm just a guy who likes to fish and to travel, preferably with the family. I also happen to be a dev (SRE) by day, so you might see some nerd stuff on here occasionally. Sorry in advance.
