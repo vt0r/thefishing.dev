@@ -70,6 +70,7 @@ canonifyURLs = true
   bluesky         = "thefishing.dev"
   mastodon_user   = "vt0r"
   mastodon_server = "ohai.social"
+  tiktok          = "@thefishing.dev"
   keyoxide        = "4b5fd875f30c8cf39191b11dead217668b7336d5"
   email           = "contact@thefishing.dev"
 
