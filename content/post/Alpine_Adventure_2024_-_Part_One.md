@@ -15,7 +15,7 @@ I decided to attend [Open Source Summit 2024 in Europe](https://events.linuxfoun
 
 ## Zürich, part one
 
-My flight from MIA to ZRH was mostly uneventful, and other than the seats on the Swiss Air flight being uncomfortable, it was a very nice flight. Flight attendants were very accommodating, etc. Upon landing in Zürich (13th September, around 11:00 CEST), I took the very short train from the airport to the main train station (Hauptbanhof). I booked a very interesting hotel maybe 100-200 meters from the station, as I arrived a couple days early, and this part I was paying for on my own. The hotel price was very compelling, especially compared to other similar ones nearby, which were all quite expensive. I immediately noticed how expensive things are in this city, but I found a very good and reasonably priced coffee shop very close by to refuel and plan an easy day, as I was tired from the flight. I decided to just spend as much time as possible exploring the city of Zürich on foot and via public transit, limiting myself to areas around the old town, as I assumed I'd be most drawn to that area anyway. After several kilometers of walking, I finally decided to take a boat tour on Zürichsee; I needed to kill some more time while taking a break from walking, and the price was very reasonable. Overall, I really liked the city. Though it was very expensive, it was still quite a nice city to walk around and see sights in. The central location for trains, and the surprisingly nice airport make it a bit easier to stomach the high prices, especially when you limit your stay.
+My flight from MIA to ZRH was mostly uneventful, and other than the seats on the Swiss Air flight being uncomfortable, it was a very nice flight. Flight attendants were very accommodating, etc. Upon landing in Zürich (13th September, around 11:00 CEST), I took the very short train from the airport to the main train station (Hauptbanhof). I booked a very interesting hotel maybe 100-200 meters from the station, as I arrived a couple days early, and this part I was paying for on my own. The hotel price was very compelling, especially compared to other similar ones nearby, which were all quite expensive. I immediately noticed how expensive things are in this city, but I was able to find a very good and reasonably priced coffee shop very close by; I needed to refuel and plan an easy day, as I was tired from the flight. I decided to just spend as much time as possible exploring the city of Zürich on foot and via public transit, limiting myself to areas around the old town, as I was most drawn to that area anyway. After several hours of walking, and with daylight hours dwindling, I finally decided to take a boat tour on Zürichsee. This allowed me to kill a bit more time while also taking a break from walking, and the price was very reasonable (I think ~10 CHF). Overall, I really liked spending time in Zürich. Though it was very expensive, it was still quite a nice place to walk around and see sights in. The central European location for trains, and the surprisingly nice airport make it a bit easier to stomach the high prices, especially when you limit your stay. But don't worry, we'll be back here in a few days!
 
 ![Landesmuseum Zürich](/images/osseu2024/IMG_4729.jpeg)
 
@@ -53,7 +53,7 @@ On Sunday, the 15th of September, it was finally time for [the train ride from Z
 
 ![Haiming](/images/osseu2024/IMG_5122.jpeg)
 
-## Arrival at Innsbruck Hbf
+## Arrival at Innsbruck Hauptbanhof
 
 ![Innsbruck Hbf](/images/osseu2024/IMG_5137.jpeg)
 
