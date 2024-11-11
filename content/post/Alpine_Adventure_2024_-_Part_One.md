@@ -6,7 +6,7 @@ draft = false
 author = 'The Fishing Dev'
 categories = ['travel', 'europe', 'austria', 'germany', 'switzerland']
 tags = ['travel', 'europe', 'austria', 'germany', 'switzerland', 'oss2024eu', 'conference']
-banner = 'banners/innsbruck_mountains_1018x460.png'
+banner = 'banners/innsbruck_hauptbanhof_1018x460.png'
 +++
 
 ## Introduction
@@ -59,4 +59,4 @@ On Sunday, the 15th of September, it was finally time for [the train ride from Z
 
 Finally, I'd arrived at Innsbruck Hbf. Everything up until this point went exactly according to plan. Then began the announcements regarding the next train. We'd be delayed about 20 minutes for departure...
 
-_TO BE CONTINUED IN PART TWO..._
+_CONTINUED IN [PART TWO](https://thefishing.dev/post/alpine_adventure_2024_-_part_two/)..._

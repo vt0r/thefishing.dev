@@ -119,3 +119,6 @@ canonifyURLs = true
     noHl = false
     style = 'solarized-dark'
     tabWidth = 2
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
