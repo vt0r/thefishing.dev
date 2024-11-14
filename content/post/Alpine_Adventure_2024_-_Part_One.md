@@ -6,7 +6,7 @@ draft = false
 author = 'The Fishing Dev'
 categories = ['travel', 'europe', 'austria', 'germany', 'switzerland']
 tags = ['travel', 'europe', 'austria', 'germany', 'switzerland', 'oss2024eu', 'conference']
-banner = 'banners/innsbruck_hauptbanhof_1018x460.png'
+banner = 'banners/innsbruck_hauptbanhof_1018x460.jpg'
 +++
 
 ## Introduction

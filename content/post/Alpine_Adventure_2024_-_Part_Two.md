@@ -6,10 +6,12 @@ draft = false
 author = 'The Fishing Dev'
 categories = ['travel', 'europe', 'austria', 'germany', 'switzerland']
 tags = ['travel', 'europe', 'austria', 'germany', 'switzerland', 'oss2024eu', 'conference']
-banner = 'banners/mürzzuschlag_1018x460.png'
+banner = 'banners/mürzzuschlag_1018x460.jpg'
 +++
 
-This article is a continuation of a previous one. Please check out the [part one article](https://thefishing.dev/post/alpine_adventure_2024_-_part_one/) if you haven't already, and start from the beginning.
+## Continued
+
+**_This article is a continuation of a previous one. Please check out the [part one article](https://thefishing.dev/post/alpine_adventure_2024_-_part_one/) if you haven't already, and start from the beginning._**
 
 ## Departing Innsbruck Hauptbanhof
 
@@ -83,6 +85,6 @@ However, the station attendants told me there was another bus leaving from outsi
 
 ![A view of a valley from a high bridge through a rain covered bus window](/images/osseu2024/IMG_5238.jpeg)
 
-We arrived in Wien around 5:30PM on the 16th of September, and I'd missed the entire first day of the conference I was traveling there to attend, but I was safe and dry, so I am absolutely not complaining. I checked in to my hotel a day late, and I arranged to meet with some work colleagues for dinner.
+We arrived in Wien around 5:30PM on the 16th of September, and I'd missed the entire first day of the conference I was traveling there to attend, but I was safe and dry, so I felt only relief. I checked in to my hotel a day late, and I arranged to meet with some work colleagues for dinner.
 
-_TO BE CONTINUED IN PART THREE..._
+_CONTINUED IN [PART THREE](https://thefishing.dev/post/alpine_adventure_2024_-_part_three/)..._
