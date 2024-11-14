@@ -4,8 +4,8 @@ date = 2024-11-10T13:38:11-05:00
 description = 'Took a trip to Vienna, Austria via Zürich, Switzerland for Open Source Summit EU 2024'
 draft = false
 author = 'The Fishing Dev'
-categories = ['travel', 'europe', 'austria', 'germany', 'switzerland']
-tags = ['travel', 'europe', 'austria', 'germany', 'switzerland', 'oss2024eu', 'conference']
+categories = ['travel', 'europe', 'austria']
+tags = ['travel', 'europe', 'austria', 'oss2024eu', 'conference']
 banner = 'banners/mürzzuschlag_1018x460.jpg'
 +++
 
