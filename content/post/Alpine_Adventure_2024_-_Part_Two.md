@@ -15,7 +15,7 @@ banner = 'banners/mürzzuschlag_1018x460.jpg'
 
 ## Departing Innsbruck Hauptbanhof
 
-The 20 minute delay became 40, then eventually 45. "No problem," I thought. "Still better than NJ Transit on a good day." So I boarded the second half of the train, which was originally supposed to go to Vienna, via Salzburg and Linz.
+The 20 minute delay became 40, then eventually a little over an hour. "No problem," I thought. "Still better than NJ Transit on a good day." So I boarded the second half of the train, which was originally supposed to go to Vienna, via Salzburg and Linz.
 
 ![Departing track at Innsbruck](/images/osseu2024/IMG_5133.jpeg)
 
@@ -73,7 +73,7 @@ I was also greeted by the day time view of Mürzzuschlag from above, which was v
 
 ![View of Mürzzuschlag from up on the mountain, day time](/images/osseu2024/IMG_5226.jpeg)
 
-After a light breakfast and some coffee, this awesome lady drove me back to the train station, so I could figure out the train/bus/taxi situation to try and get to Wien. I don't usually do ads or anything of that sort, but that lady and her husband were so cool, that I feel like I have to name the place, just in case someone reading this ends up in that village some day. The place was called [Lambach Villa](https://lambachvilla.at/), and I'd highly recommend them, even in a non-emergency situation. 😏
+After a light breakfast and some coffee, this awesome lady drove me back to the train station, so I could figure out the train/bus/taxi situation to try and get to Wien. I don't advertise products or places or anything of that sort, but that lady and her husband were so cool, that I feel like I have to name the place, just in case someone reading this ends up in that village some day. The place was called [Lambach Villa](https://lambachvilla.at/), and it was very nice.
 
 ## Making my way to Wien
 
