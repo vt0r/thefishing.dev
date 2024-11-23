@@ -8,7 +8,7 @@ canonifyURLs = true
   # Tell me who you are
   author = "thefishingdev"
   site_description = "A travel blog with some fishing/beach trips sprinkled in"
-  copyright  = "by The Fishing Dev."
+  copyright  = "by The Fishing Dev (Salvatore LaMendola)."
   #avatar = "avatar.png"
   logo = "images/logo.png"
   logo_alt_txt = "A large-ish Mutton Snapper at a ~140-degree angle over a code editor background"
