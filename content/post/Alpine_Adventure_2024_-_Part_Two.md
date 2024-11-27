@@ -7,6 +7,7 @@ author = 'The Fishing Dev'
 categories = ['travel', 'europe', 'austria']
 tags = ['travel', 'europe', 'austria', 'oss2024eu', 'conference']
 banner = 'banners/mürzzuschlag_1018x460.jpg'
+skeet_id = '3lavg3x7pck2n'
 +++
 
 ## Continued
