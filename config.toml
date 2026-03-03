@@ -6,7 +6,7 @@ canonifyURLs = true
 
 [params]
   # Tell me who you are
-  author = "thefishingdev"
+  #author = "thefishingdev"
   site_description = "A travel blog with some fishing/beach trips sprinkled in"
   copyright  = "by The Fishing Dev (Salvatore LaMendola)."
   #avatar = "avatar.png"
@@ -38,6 +38,10 @@ canonifyURLs = true
   name  = "Contact"
   url   = "/contact/"
   weight = 20
+
+[params.author]
+  name = "thefishingdev"
+  email = "contact[at]thefishing[dot]dev"
 
 [params.share]
   enable = false
@@ -72,7 +76,7 @@ canonifyURLs = true
   mastodon_server = "ohai.social"
   tiktok          = "@thefishing.dev"
   keyoxide        = "4b5fd875f30c8cf39191b11dead217668b7336d5"
-  email           = "contact@thefishing.dev"
+  email           = "contact[at]thefishing[dot]dev"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
